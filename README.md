@@ -4,7 +4,7 @@
 <strong>Programador: </strong> CESAR ALEXANDER QUEZADA CHORRES
 <h2>Pantalla de bienvenida</h2>
 <p>Esta pantalla te da la bienvenida y contexto de lo que te ofrece la app</p><br>
-<img src="https://github.com/user-attachments/assets/5df2b615-8ca5-49ea-b802-072ed9052150" width="300px">
+<img src="https://github.com/user-attachments/assets/cdf718b8-c121-4cda-bc4d-090439ec2ad9" width="300px">
 
 <h2>Pantalla de inicio</h2>
 <p>Esta pantalla muestra información sobre las diferentes carreras de ingeniería que ofrece la universidad.</p><br>
