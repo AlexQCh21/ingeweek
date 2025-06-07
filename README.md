@@ -1,5 +1,5 @@
 <h1>IngeWeek</h1>
-<p>Esta aplicación móvil está diseñada para la gestión y visualización de actividades universitarias, facilitando a los estudiantes, docentes y administrativos el acceso a eventos académicos, deportivos y culturales organizados por la universidad. Los usuarios pueden consultar el calendario de actividades de cada carrera profesional, visualizar ponencias, talleres y competencias deportivas, y filtrar los eventos según su interés o carrera.</p>
+<p>Esta aplicación móvil está diseñada utilizando Material design 3 para la visualización de actividades universitarias, facilitando a los estudiantes, docentes y administrativos el acceso a eventos académicos, deportivos y culturales organizados por la universidad. Los usuarios pueden consultar el calendario de actividades de cada carrera profesional, visualizar ponencias, talleres y competencias deportivas, y filtrar los eventos según su interés o carrera.</p>
 <br>
 <strong>Programador: </strong> CESAR ALEXANDER QUEZADA CHORRES
 <h2>Pantalla de bienvenida</h2>
