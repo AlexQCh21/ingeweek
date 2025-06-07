@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Rectángulo superior redondeado -->
+    <path
+        android:fillColor="#222127"
+        android:pathData="M20,15
+                          a15,15 0 0 1 60,0
+                          v25
+                          a15,15 0 0 1 -60,0
+                          z"/>
+    <!-- Rectángulo inferior redondeado -->
+    <path
+        android:fillColor="#222127"
+        android:pathData="M20,60
+                          a15,15 0 0 1 60,0
+                          v25
+                          a15,15 0 0 1 -60,0
+                          z"/>
+</vector>

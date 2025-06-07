@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- res/values/styles.xml -->
+    <style name="CustomPopupMenuTextStyle" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textColor">#FF5722</item> <!-- Cambia el color que desees -->
+    </style>
+
+    <style name="Widget.PopupMenu.Custom" parent="Widget.Material3.PopupMenu">
+        <item name="android:itemTextAppearance">@style/CustomPopupMenuTextStyle</item>
+    </style>
+</resources>

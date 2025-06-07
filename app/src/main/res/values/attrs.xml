@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorUnsColor" format="color"/>
+    <attr name="colorOnUnsColor" format="color"/>
+    <attr name="colorUnsColorContainer" format="color"/>
+    <attr name="colorOnUnsColorContainer" format="color"/>
+</resources>

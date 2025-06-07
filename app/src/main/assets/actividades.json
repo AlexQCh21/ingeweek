@@ -1,0 +1,313 @@
+[
+  {
+    "id": 1,
+    "actividades": [
+      {
+        "dia": "Viernes",
+        "fecha": "2025-06-06",
+        "hora": "09:00",
+        "actividad": "Fútbol: Ing. Agrónoma vs Ing. Sistema",
+        "categoria": "deporte"
+      },
+      {
+        "dia": "Viernes",
+        "fecha": "2025-06-06",
+        "hora": "Tarde",
+        "actividad": "Vóley: Ing. Agrónoma vs Ing. Sistema",
+        "categoria": "deporte"
+      },
+      {
+        "dia": "Viernes",
+        "fecha": "2025-06-06",
+        "hora": "Mañana",
+        "actividad": "Básquet: Ing. Agrónoma vs Ing. Sistema",
+        "categoria": "deporte"
+      },
+      {
+        "dia": "Jueves",
+        "fecha": "2025-06-05",
+        "hora": "15:00",
+        "lugar": "Auditorio EPIE",
+        "tema": "La inteligencia artificial y su influencia en la programación",
+        "ponente": "Dr. Carlos Eugenio Vega Moreno",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Jueves",
+        "fecha": "2025-06-05",
+        "hora": "15:45",
+        "lugar": "Auditorio EPIE",
+        "tema": "Estrategias competitivas en los negocios empresariales",
+        "ponente": "Dra. Lisbeth Dora Briones Pereyra",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Jueves",
+        "fecha": "2025-06-05",
+        "hora": "16:30",
+        "lugar": "Auditorio EPIE",
+        "tema": "Del dato a la decisión: Fundamentos y aplicaciones de Power Bi",
+        "ponente": "Ms. Johan López Heredia",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Jueves",
+        "fecha": "2025-06-05",
+        "hora": "17:15",
+        "lugar": "Auditorio EPIE",
+        "tema": "Stacking ensemble approach to diagnosing the disease of diabetes",
+        "ponente": "Dr. Alfredo Daza Vergaray",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Jueves",
+        "fecha": "2025-06-05",
+        "hora": "18:00",
+        "lugar": "Auditorio EPIE",
+        "tema": "Un modelo multiclasificador para la predicción de la carga de enfriamiento y calor en edificios residenciales",
+        "ponente": "Mg. Luis Enrique Ramírez Milla",
+        "categoria": "ponencia"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "actividades": [
+      {
+        "dia": "Lunes",
+        "fecha": "2025-06-02",
+        "hora": "10:00",
+        "lugar": "Auditorio Biblioteca Central",
+        "tema": "El ingeniero como agente de cambio",
+        "ponente": "Ing. Jorge Castañeda Centurión",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Lunes",
+        "fecha": "2025-06-02",
+        "hora": "10:45",
+        "lugar": "Auditorio Biblioteca Central",
+        "tema": "Desempeño sísmico de un edificio esencial con fines de reforzamiento estructural",
+        "ponente": "Ing. Iván León Malo",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Lunes",
+        "fecha": "2025-06-02",
+        "hora": "11:30",
+        "lugar": "Auditorio Biblioteca Central",
+        "tema": "Cimentaciones para edificaciones en la ciudad de Chimbote, aplicando la norma E.050",
+        "ponente": "Ing. Jorge Morillo Trujillo",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Viernes",
+        "fecha": "2025-06-06",
+        "hora": "09:00",
+        "actividad": "Fútbol, Vóley y Básquet: Ing. Energía vs Ing. Civil",
+        "categoria": "deporte"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "actividades": [
+      {
+        "dia": "Martes",
+        "fecha": "2025-06-03",
+        "hora": "08:00",
+        "lugar": "Auditorio EPIE",
+        "tema": "Hidrolisis marinos – vía enzimática",
+        "ponente": "Ing. Gabriel Sifuentes Penagos",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Martes",
+        "fecha": "2025-06-03",
+        "hora": "08:45",
+        "lugar": "Auditorio EPIE",
+        "tema": "NutriAvo: Agroindustria con propósito",
+        "ponente": "Ing. Mirian Vásquez Chuquizuta",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Martes",
+        "fecha": "2025-06-03",
+        "hora": "09:30",
+        "lugar": "Auditorio EPIE",
+        "tema": "Innovación, emprendimiento y gestión agroindustrial",
+        "ponente": "Ing. Nadia Esther Gamarra Abanto",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Martes",
+        "fecha": "2025-06-03",
+        "hora": "10:15",
+        "lugar": "Auditorio EPIE",
+        "tema": "Gestión de Calidad en producción de Aceite de Pescado",
+        "ponente": "Ing. Carmen Pajuelo Carbajal",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Viernes",
+        "fecha": "2025-06-06",
+        "hora": "09:00",
+        "actividad": "Fútbol, Vóley y Básquet: Ing. Mecánica vs Ing. Agroindustrial",
+        "categoria": "deporte"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "actividades": [
+      {
+        "dia": "Miércoles",
+        "fecha": "2025-06-04",
+        "hora": "15:00",
+        "lugar": "Auditorio EPIE",
+        "tema": "Aplicación del TPM a equipos de tratamiento de caldos",
+        "ponente": "M.Sc. Arquímedes Iparraguirre Lozano",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Miércoles",
+        "fecha": "2025-06-04",
+        "hora": "15:45",
+        "lugar": "Auditorio EPIE",
+        "tema": "Bloqueo y etiquetado de energía residual",
+        "ponente": "M.Sc. Luis Carlos Calderón Rodríguez",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Miércoles",
+        "fecha": "2025-06-04",
+        "hora": "16:15",
+        "lugar": "Auditorio EPIE",
+        "tema": "Sistema automático de transferencia de energía ATS",
+        "ponente": "Ms. Fredesbildo Fidel Ríos Noriega",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Miércoles",
+        "fecha": "2025-06-04",
+        "hora": "17:00",
+        "lugar": "Auditorio EPIE",
+        "tema": "Aplicación de la hidrocinética en la ingeniería",
+        "ponente": "M.Sc. Nelver Javier Escalante Espinoza",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Miércoles",
+        "fecha": "2025-06-04",
+        "hora": "17:45",
+        "lugar": "Auditorio EPIE",
+        "tema": "Retos en fabricación de puentes metálicos en Chimbote",
+        "ponente": "Ing. Diego Alonso Blondet Belaunde",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Viernes",
+        "fecha": "2025-06-06",
+        "hora": "09:00",
+        "actividad": "Fútbol, Vóley y Básquet: Ing. Mecánica vs Ing. Agroindustrial",
+        "categoria": "deporte"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "actividades": [
+      {
+        "dia": "Miércoles",
+        "fecha": "2025-06-04",
+        "hora": "09:00",
+        "lugar": "Auditorio EPIE",
+        "tema": "Agrovoltaica: alternativa sostenible para la transición energética",
+        "ponente": "Dr. Denis Arangurí Cayetano",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Miércoles",
+        "fecha": "2025-06-04",
+        "hora": "10:00",
+        "lugar": "Auditorio EPIE",
+        "tema": "Técnicas nucleares para detección de gas Radón",
+        "ponente": "M.Sc. Carlos Montañez Montenegro",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Miércoles",
+        "fecha": "2025-06-04",
+        "hora": "11:00",
+        "lugar": "Auditorio EPIE",
+        "tema": "Energía eólica residencial en Perú",
+        "ponente": "M.Sc. Ricardo Cedrón Maguiña",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Viernes",
+        "fecha": "2025-06-06",
+        "hora": "09:00",
+        "actividad": "Fútbol, Vóley y Básquet: Ing. Energía vs Ing. Civil",
+        "categoria": "deporte"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "actividades": [
+      {
+        "dia": "Viernes",
+        "fecha": "2025-06-06",
+        "hora": "09:00",
+        "actividad": "Fútbol, Vóley y Básquet: Ing. Agrónoma vs Ing. Sistema",
+        "categoria": "deporte"
+      },
+      {
+        "dia": "Jueves",
+        "fecha": "2025-06-05",
+        "hora": "15:00",
+        "lugar": "Auditorio Ing. Agrónoma – Campus II",
+        "tema": "Manejo agronómico del cultivo de palto var. Hass",
+        "ponente": "Ing. Paco Chicoma Rivera",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Jueves",
+        "fecha": "2025-06-05",
+        "hora": "15:45",
+        "lugar": "Auditorio Ing. Agrónoma – Campus II",
+        "tema": "Estrés fisiológico de los cultivos",
+        "ponente": "Ing. Daleska Longobardi Méndez",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Jueves",
+        "fecha": "2025-06-05",
+        "hora": "16:30",
+        "lugar": "Auditorio Ing. Agrónoma – Campus II",
+        "tema": "Agroexportación de frutales",
+        "ponente": "Ing. Jesús Jaque Chauca",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Jueves",
+        "fecha": "2025-06-05",
+        "hora": "17:15",
+        "lugar": "Auditorio Ing. Agrónoma – Campus II",
+        "tema": "Experiencias fitosanitarias en el cultivo de palto (Agro Chimu)",
+        "ponente": "Ms. Teófilo Arias Miranda",
+        "categoria": "ponencia"
+      },
+      {
+        "dia": "Jueves",
+        "fecha": "2025-06-05",
+        "hora": "18:00",
+        "lugar": "Auditorio Ing. Agrónoma – Campus II",
+        "tema": "Nuevas alternativas de nutrición en el cultivo de palta (Yara Perú)",
+        "ponente": "Ing. Shimy Zapata Gutiérrez",
+        "categoria": "ponencia"
+      }
+    ]
+  }
+]

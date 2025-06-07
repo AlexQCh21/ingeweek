@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "carrera": "Ingeniería de Sistemas e Informática",
+    "director": "Dr. Juan Pablo Sánchez Chávez",
+    "img": "f_sistemas",
+    "campus": "Campus 1"
+  },
+  {
+    "id": 2,
+    "carrera": "Ingeniería Civil",
+    "director": "Dr. Abner León Bobadilla",
+    "img": "f_civil",
+    "campus": "Campus 1"
+  },
+  {
+    "id": 3,
+    "carrera": "Ingeniería Agroindustrial",
+    "director": "Dr. Daniel Sánchez Baca",
+    "img": "f_agroindustrial",
+    "campus": "Campus 1"
+  },
+  {
+    "id": 4,
+    "carrera": "Ingeniería Mécanica",
+    "director": "Ms. Nelver Escalante Espinoza",
+    "img": "f_mecanica",
+    "campus": "Campus 1"
+  },
+  {
+    "id": 5,
+    "carrera": "Ingeniería en Energía",
+    "director": "Ms. Julio Escate Ravello",
+    "img": "f_energia",
+    "campus": "Campus 1"
+  },
+  {
+    "id": 6,
+    "carrera": "Ingeniería Agrónoma",
+    "director": "Ms. Wilmer Aquino Minchan",
+    "img": "f_agronoma",
+    "campus": "Campus 2"
+  }
+]
